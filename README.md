@@ -23,7 +23,12 @@ To do this do the following.
 3. Select Open
 4. Click the play button on the top dash board of the Easy68k window
 5. Click Execute
-6. Click the play button on the top again (or F9)
+
+Now we have to load the test file into memory
+1. Go to file -> open data
+2. Select the test.s68 file we just compiled
+3. Click Open
+6. Now Click the play button on the top again (or F9)
 
 Follow the onboard instructions
 
