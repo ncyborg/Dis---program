@@ -6,7 +6,7 @@ This is the dissassembler for my class to use the program do the following steps
 2. Install Easy68k http://www.easy68k.com/
 3. Run easy 68k 
 
-Then we have to compile the test file in order to load it into memory
+Then we have to compile the test file 
 To do this, follow these steps
 
 1. Click File -> Open File
